@@ -1,4 +1,4 @@
-# TSIR
+# T-SIR
 ## [Confirmed](https://github.com/HuangDerek/TSIR/tree/main/Confirmed)
 
 This folder contains the number of reported confirmed cases for 58 US states and territories from 1/22/2020 to 2/14/2021 respectively.
