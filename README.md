@@ -1,7 +1,7 @@
-# T-SIR
+# T-SIR Compartmental Model for Epidemic Prediction
 ## [Confirmed](https://github.com/HuangDerek/TSIR/tree/main/Confirmed)
 
-This folder contains the number of reported confirmed cases for 58 US states and territories from 1/22/2020 to 2/14/2021 respectively.
+This folder contains the number of reported confirmed cases for 58 US states and territories from 1/22/2020 to 2/14/2021 respectively. Data from the JHU CSSE COVID-19 Dataset was processed to obtain the total number of confirmed cases in different dates for each state by summing the corresponding data for all counties in the respective state.
 
 ### File Naming Convention
 State_confirmed.csv
@@ -16,7 +16,7 @@ State_confirmed.csv
 
 ## [Deaths](https://github.com/HuangDerek/TSIR/tree/main/Deaths)
 
-This folder contains the number of reported deaths for 58 US states and territories from 1/22/2020 to 2/14/2021 respectively.
+This folder contains the number of reported deaths for 58 US states and territories from 1/22/2020 to 2/14/2021 respectively. Data from the JHU CSSE COVID-19 Dataset was processed to obtain the total number of deaths on different dates for each state by summing the corresponding data for all counties in the respective state.
 
 ### File Naming Convention
 State_deaths.csv
@@ -31,7 +31,7 @@ State_deaths.csv
 
 ## [Mobility](https://github.com/HuangDerek/TSIR/tree/main/Mobility)
 
-This folder contains mobility reports for the 50 US states and  from 1/22/2020 to 2/14/2021 respectively.
+This folder contains mobility reports for the 50 US states and  from 1/22/2020 to 2/14/2021 respectively. The data was extracted from the Google COVID-19 Community Mobility Reports.
 
 ### File Naming Convention
 State_Mobility.csv
